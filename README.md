@@ -18,7 +18,7 @@
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/ziptechdev/Bandicoot-backend.git
+   git clone https://github.com/kenangenjac/Tickets-API.git
    ```
    
 2. Install NPM packages
