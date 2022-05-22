@@ -1,0 +1,34 @@
+{
+  "name": "bandicoot-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ziptechdev/Bandicoot-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ziptechdev/Bandicoot-backend/issues"
+  },
+  "homepage": "https://github.com/ziptechdev/Bandicoot-backend#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "moment": "^2.29.3",
+    "mongoose": "^6.3.3",
+    "swagger-jsdoc": "^6.2.1",
+    "swagger-ui-express": "^4.4.0"
+  }
+}
