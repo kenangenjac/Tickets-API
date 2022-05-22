@@ -1,4 +1,4 @@
-# Bandicoot-backend
+# Tickets API
 
 <!-- GETTING STARTED -->
 ## Getting Started
